@@ -42,7 +42,7 @@ After resources are booked, select **Maintain Bookings** to make any changes tha
 
 ## What resources types does Project Service Automation support?
 
-**User** and **Contact** are the only resource types that are supported in Dynamics 365 Project Service Automation. Although you can create other types of resources (for example, **Equipment** and **Group**), no end-to-end use case is supported for them.
+**Acount**, **User**, **Contact** and **Equipment** are the only resource types that are supported in Dynamics 365 Project Service Automation. Although you can create other types of resources (for example **Group**), no end-to-end use case is supported for them.
 
 ## What is the difference between an assignment and a booking?
 
